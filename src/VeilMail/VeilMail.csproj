@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>10.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <RootNamespace>VeilMail</RootNamespace>
+    <PackageId>VeilMail</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Resonia Health</Authors>
+    <Description>Official .NET SDK for the Veil Mail API</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://veilmail.xyz</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Resonia-Health/veilmail-dotnet</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>
