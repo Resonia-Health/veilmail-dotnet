@@ -8,10 +8,14 @@
     <PackageId>VeilMail</PackageId>
     <Version>0.1.0</Version>
     <Authors>Resonia Health</Authors>
-    <Description>Official .NET SDK for the Veil Mail API</Description>
+    <Company>Resonia Health</Company>
+    <Description>Official .NET SDK for Veil Mail — secure transactional and marketing email with automatic PII protection. A drop-in alternative to Resend, SendGrid, Mailgun, and Postmark for .NET and ASP.NET Core.</Description>
+    <PackageDescription>Official .NET SDK for Veil Mail — secure transactional and marketing email with automatic PII protection. A drop-in alternative to Resend, SendGrid, Mailgun, and Postmark. Full support for emails, domains, templates, audiences, campaigns, automation sequences, webhooks, and CASL compliance.</PackageDescription>
+    <PackageTags>email;email-api;transactional-email;marketing-email;sdk;veilmail;resend;resend-alternative;sendgrid;sendgrid-alternative;mailgun;mailgun-alternative;postmark;postmark-alternative;pii;pii-protection;casl;gdpr;compliance;smtp</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://veilmail.xyz</PackageProjectUrl>
+    <PackageProjectUrl>https://veilmail.xyz/docs/sdk-dotnet</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Resonia-Health/veilmail-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
